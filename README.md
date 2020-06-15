@@ -1,2 +1,2 @@
 
-Module 2 Coding Assignment solution
+Module 3 Coding Assignment solution
