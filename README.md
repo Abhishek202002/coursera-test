@@ -1,2 +1,1 @@
-
-Module 5 Coding Assignment solution
+Hotel  website using javascript
